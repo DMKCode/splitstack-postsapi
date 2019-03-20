@@ -1,0 +1,12 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postsByUser.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "serverless deploy --stage dev"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.401.0",
+    "lerna": "^3.13.1",
     "serverless": "^1.37.1",
     "serverless-webpack": "^5.2.0",
     "webpack": "^4.29.3",
@@ -19,5 +20,8 @@
   "license": "ISC",
   "repository": {
     "url": "https://github.com/GorillaStack/splitstack-postsapi.git"
-  }
+	},
+	"workspaces": [
+		"api/*"
+	]
 }
