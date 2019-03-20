@@ -1,13 +1,13 @@
 {
-	"name": "users",
-	"private": true,
-  "version": "1.0.0",
-  "description": "",
-  "main": "token.js",
-  "scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"deploy": "serverless deploy --stage dev"
-  },
-  "author": "",
-  "license": "ISC"
+ "name": "users",
+ "private": true,
+ "version": "1.0.1",
+ "description": "",
+ "main": "token.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "deploy": "serverless deploy --stage dev"
+ },
+ "author": "",
+ "license": "ISC"
 }
