@@ -1,6 +1,7 @@
 {
  "name": "dmkcode-users",
  "version": "1.0.4",
+ "private": true,
  "description": "",
  "main": "token.js",
  "scripts": {
