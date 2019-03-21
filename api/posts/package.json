@@ -1,6 +1,6 @@
 {
   "name": "@dmkcode/posts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "postsByUser.js",
   "scripts": {
