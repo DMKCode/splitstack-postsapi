@@ -1,5 +1,5 @@
 {
-  "name": "posts",
+  "name": "@mdmkcode/posts",
   "version": "1.0.2",
   "description": "",
   "main": "postsByUser.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "add85d284b2233593fc199ad0053a10f998e9255"
 }
