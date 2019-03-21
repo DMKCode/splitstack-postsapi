@@ -1,7 +1,7 @@
 {
  "name": "users",
  "private": true,
- "version": "1.0.1",
+ "version": "1.0.2",
  "description": "",
  "main": "token.js",
  "scripts": {
@@ -11,6 +11,6 @@
  "author": "",
  "license": "ISC",
  "publishConfig": {
-		"access": "public"
-	}
+  "access": "public"
+ }
 }

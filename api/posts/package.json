@@ -1,6 +1,6 @@
 {
   "name": "posts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "postsByUser.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "deploy": "serverless deploy --stage dev"
   },
   "author": "",
-	"license": "ISC",
-	"publishConfig": {
-		"access": "public"
-	}
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
 }
