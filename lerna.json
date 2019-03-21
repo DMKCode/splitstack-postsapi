@@ -5,8 +5,13 @@
 	"useWorkspaces": true,
 	"command": {
 		"publish": {
-			"conventionalCommits": true
-		}
+			"conventionalCommits": true,
+			"ignoreChanges": ["ignored-file", "*.md"],
+      "message": "chore(release): publish %s"
+		},
+		"version": {
+      "allowBranch": "master"
+    }
 	},
 	"packages": [
 		"api/*"

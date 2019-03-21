@@ -1,5 +1,5 @@
 {
- "name": "users",
+ "name": "dmkcode-users",
  "version": "1.0.4",
  "description": "",
  "main": "token.js",
@@ -9,5 +9,5 @@
  },
  "author": "",
  "license": "ISC",
- "gitHead": "baffc7b70ce97789a27149ad30dfcfa008ceeaf6"
+ "gitHead": "b371ffc18e82d89bd351db08c6f1cf0889a45d54"
 }
