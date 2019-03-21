@@ -9,5 +9,8 @@
   "deploy": "serverless deploy --stage dev"
  },
  "author": "",
- "license": "ISC"
+ "license": "ISC",
+ "publishConfig": {
+		"access": "public"
+	}
 }
