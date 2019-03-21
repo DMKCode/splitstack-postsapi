@@ -11,7 +11,7 @@ module.exports.handler = async event => {
   const password = crypto.pbkdf2Sync(body.password, salt, 100000, 64, 'sha512')
   const item = Object.assign({}, {
     userId,
-    name: body.name || 'Test User',
+    name: body.name || 'Test User1',
     secret: {
       password,
       salt,
