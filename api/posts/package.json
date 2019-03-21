@@ -1,5 +1,5 @@
 {
-  "name": "@dmkcode.public/posts",
+  "name": "@dmkcode/posts",
   "version": "1.0.3",
   "description": "",
   "main": "postsByUser.js",
