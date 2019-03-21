@@ -1,7 +1,8 @@
 {
   "name": "@dmkcode/posts",
   "version": "1.0.4",
-  "description": "",
+	"description": "",
+	"private": true,
   "main": "postsByUser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
