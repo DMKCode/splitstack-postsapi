@@ -141,3 +141,7 @@ NodeJS 8.10 is used, so its possible to use async/await along with destructuring
 or newer JavaScript syntax. See the [serverless webpack website](https://github.com/serverless-heaven/serverless-webpack)
 for more details.
 
+# Lerna 
+
+=> lerna run --scope $(lerna ls --json --all | json -a -c '!this.private' name) deploy
+=> lerna publish --yes 

@@ -6,7 +6,7 @@
 	"command": {
 		"publish": {
 			"conventionalCommits": true,
-			"ignoreChanges": ["ignored-file", "*.md"],
+			"ignoreChanges": ["*.md"],
       "message": "chore(release): publish %s"
 		}
 	},

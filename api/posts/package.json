@@ -2,15 +2,12 @@
   "name": "@dmkcode/posts",
   "version": "1.0.6",
   "description": "posts",
-  "main": "postsByUser.js",
+	"main": "postsByUser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "serverless deploy --stage dev"
   },
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "access": "public"
-  },
   "gitHead": "09a8c1b2a9ba4e19c69f1f85183094454895b100"
 }
